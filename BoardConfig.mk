@@ -141,6 +141,7 @@ SHRP_OTG := /usb_otg
 SHRP_FLASH := 1
 SHRP_CUSTOM_FLASHLIGHT := true
 SHRP_FONP_1 := /sys/class/leds/flashlight/brightness
+SHRP_FLASH_MAX_BRIGHTNESS := 1
 SHRP_REC := /dev/block/bootdevice/by-name/recovery
 SHRP_REC_TYPE := SAR
 SHRP_DEVICE_TYPE := A_Only
